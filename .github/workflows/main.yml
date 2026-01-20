@@ -70,7 +70,6 @@ on:
 jobs:
   tests:
     runs-on: ubuntu-latest
-    steps:
     # Блок services аналогичен docker-compose.yml
   # Собрать и отправить образ приложения на Docker Hub
   build_and_push_to_docker_hub:
