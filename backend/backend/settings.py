@@ -1,3 +1,4 @@
+"""No blank lines allowed after function docstring."""
 import os
 from pathlib import Path
 
